@@ -1,123 +1,50 @@
 ---
 layout: default
+title: Portfolio 
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# 👋 O mnie
 
-[Link to another page](./another-page.html).
+Student Cyberbezpieczeństwa na Politechnice Wrocławskiej, zainteresowany wykrywaniem incyden-
+tów i analizą działań grup APT. Rozwijam umiejętności w obszarach detekcji, analizy zagrożeń oraz
+Threat Intelligence i poszukuję możliwości rozwoju w praktycznych aspektach bezpieczeństwa IT.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 📂 Projekty
+### Projekt1
+Badanie taktyk, technik i procedur grupy APT atakującej Polskę.  
+Wykorzystanie Threat Intelligence do budowy scenariuszy detekcji.  
+**Technologie:** OpenCTI, Wazuh,  MITRE ATT&CK
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[➡ Zobacz projekt](https://github.com/twoj-link-do-projektu)
 
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## 📜 Doświadczenie
+**[Buena Cloud Sp. z o.o.]** – [Praktykant] *(03.2024 – 06.2024)*  
+• Tworzyłem i utrzymywałem skrypty w Apps Script automatyzujące zarządzanie użytkownikami
+i usługami w Google Workspace.
+• Zarządzałem właściwościami konta serwisowego wykorzystywanego do integracji aplikacji z za-
+sobami Google Cloud.
+• Wspierałem kontrolę dostępu i uprawnień w środowisku Google Admin Console, monitorując
+działania użytkowników.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**[Agencja Kuźnia ]** – [Autor rozwiązań] *(07.2023 – 09.2023)*  
+• Opracowywałem zadania z fizyki na poziomie rozszerzonym z komentarzem teoretycznym.
+• Tworzyłem materiały edukacyjne, zapewniając zgodność z wymaganiami egzaminacyjnymi.
+• Konsultowałem poprawność zadań i testowałem ich zrozumiałość z perspektywy uczniów.
 
-```
-The final element.
-```
+## 🎓 Wykształcenie
+
+**Politechnika Wrocławska** – *Studia magisterskie*  
+*Kierunek: Cyberbezpieczeństwo*  
+**Okres:** 2025 – obecnie  
+
+**Politechnika Wrocławska** – *Studia inżynierskie*  
+*Kierunek: [Cyberbezpieczeństwo]*  
+**Okres:** [2021] – [2025]  
+- Praca dyplomowa: *[Wykorzystanie sieci neuronowych do detekcji steganografii w plikach multimedialnych]*  
+
+
