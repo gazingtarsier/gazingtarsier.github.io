@@ -32,6 +32,8 @@ działania użytkowników.
 • Tworzyłem materiały edukacyjne, zapewniając zgodność z wymaganiami egzaminacyjnymi.
 • Konsultowałem poprawność zadań i testowałem ich zrozumiałość z perspektywy uczniów.
 
+ ---
+ 
 ## 🎓 Wykształcenie
 
 **Politechnika Wrocławska** – *Studia magisterskie*  
